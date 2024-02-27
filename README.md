@@ -48,8 +48,8 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-### Name:
-### Register Number:
+### Name: S Adithya Chowdary.
+### Register Number: 212221230100.
 ```python
 
 from google.colab import auth
